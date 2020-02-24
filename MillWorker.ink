@@ -131,7 +131,8 @@ What do you do?
             
             You made some tough choices, and you have survived a day. But as you lie your head down and go to sleep, you realize tomorrow is another day, and you must start the process all over. In the end, this is just a normal day for you.
             End Result: You Neither Win, Nor Lose.
-            
+                        
+            **** Restart[] #RESTART
             -> END
     
         *** Overreact[] -> Overreact
@@ -153,6 +154,7 @@ You are a Mill Worker. You ate a good breakfast and got to work. Getting a raise
 You go home and climb back into your bed. Your significant other is not home from their own job yet, but you are exhausted, and you fall asleep. It'll be the same job tomorrow..... same choices you will have to make.
 End Result: You Neither Win or Lose
 
+* Restart[] #RESTART
 -> END
 
 = Work
@@ -171,6 +173,7 @@ You finish your quota and your foreman takes you aside to agree on the necessary
 You are now going to be trained as a foreman. That means a considerable raise and, according to you, easier work. You have also been recognized for your hard work. That can come in handy later on in life. Things just keep looking up for you!
 End Result: You WIN!
 
+* Restart[] #RESTART
 -> END
 
 = Starving
@@ -210,6 +213,8 @@ However, you do not know if the other passengers would be so nice. They might ca
         
         You could not handle a day as a Mill Worker. And odds are, you will starve or be murdered on your long journey home to Astam Junction.
         End Result: You Lose!
+                
+        *** Restart[] #RESTART
         -> END
 
 * Don't Steal[]
@@ -309,6 +314,8 @@ He expresses disappointment at your work, and he needs some more workers back on
     End Result: You Neither Win nor Lose
 
 -
+
+* Restart[] #RESTART
 -> END
 
 = Overreact
@@ -322,4 +329,5 @@ They inform you that your last paycheck as well as your severance pay will be wi
 It's a long way home, and you proved you couldn't deal with day to day life of a Mill Worker.
 End Result: You LOSE!
 
+* Restart[] #RESTART
 -> END

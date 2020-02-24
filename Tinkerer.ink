@@ -106,16 +106,16 @@ So, which do you do?
         
         You're eyes narrow.
         
-        * Chase Them[] 
+        **** Chase Them[] 
             So you run around the counter, and chase them out of the store, yelling. Clocks and gadgets are falling from the Captain's shirt, and even his fake mustache falls off in the chase. They head out the door and careen down the street. Your old lungs will not carry you, and you frown. It looks, however, that the Doctor has left a note outside on the curb, with some money. They money by no means can make up for the amount in stolen property, but it covers the repair and a few items.
             
             So you grab it and give it to the counter worker, who has come outside. You tell him to get the constable, and to ring up the transaction so Marx won't find out too bad.
             
             The counter boy mentions it was dumb of him to tell them his name. You look at him like he is stupid.
             
-            * Back to Work[]
-        * Back to Work[] 
-        - 
+            ***** Back to Work[]
+        **** Back to Work[] 
+        ----
         
         You roll your eyes, and return to your workshop. You are too old for this.
         
@@ -124,7 +124,10 @@ So, which do you do?
         After a few more projects, your day is done and you head home.
         
         You have survived another day. As you go home and sit next to your significant other, you realize you must wake up and go through it all tomorrow.
-        End Result: You neither Win, Nor Lose.
+        
+        End Result: You neither Win, Nor Lose. 
+        
+        ***** Restart[] #RESTART
         -> END
 
 = Quit
@@ -139,6 +142,8 @@ Several weeks pass, however Marx doesn't forget your outburst. Time comes to fir
 
 Either way, it doesn't matter. You can't survive on either amount. And now, you are out of a job, or working for Vibranni wages. You can't survive on that!
 End Result: You Lose
+
+* Restart[] #RESTART
 -> END
 
 = Challenge
@@ -177,7 +182,9 @@ You crack your old knuckles, and stand tall against your boss.
         
         Weeks past, and you didn't lose your job until many of your coworkers were let go. Another store-wide compitition is held and you are sick and miss out. You are fired days later, with a substantial severance package.
         End Result: You Lose
-        -> END
+                
+        *** Restart[] #RESTART
+        --- -> END
     
     ** Take it By Storm[]
         You go ahead and dive into the Lenses. Pushing yourself to the Limits, you keep trying the best you can to outpace yourself and build each Optical Lens perfectly. Your coworkers begin to cheer, and you get energized by their shouts to you.
@@ -188,6 +195,8 @@ You crack your old knuckles, and stand tall against your boss.
         
         Time passes, and the Machine proves its worth in the shop. When time comes around that Marx starts firing people, he keeps you around. So you ended up keeping your job and testing out the machine. Over time, you even take up learning how to maintenance the machine, when Marx lets you learn that, and you hope it will make you even more useful to the company.
         End Result: You Neither Win Nor Lose
+        
+        *** Restart[] #RESTART
         -> END
     
 = Flare
@@ -202,6 +211,7 @@ Marx calls it. He takes you aside, and apologizes for it. You try to defend your
 Sure, Marx was nice enough to keep you around for another week or so. But as the machine proves its colors, many are sent packing. You find out you are one of these when he brings up this event. You are out of a job, and your distress means all your personal projects tumble with it. You couldn't put your money where your mouth was, and you suffer for it.
 End Result: You Lose
 
+* Restart[] #RESTART
 -> END
 
 = Work
@@ -220,6 +230,8 @@ Some time passes, and you need to check your progress. You can either keep up yo
     
     A few weeks later, the machine proves its worth. Prices of basic items and gadgets goes down, and the shop becomes more popular. However, many workers were laid off. Thankfully, you were not one of them. In fact, you got a raise. Along with being one of the only tinkerers in the shop, you are given the ability to make improvements to the machine, fix the machine, as well as write up blueprints for more popular items for the machine to read and learn more items to fix and make. In general, your life gets slightly better, and you've earned the respect of all who work with, above, or around you.
     End Result: You Win!
+        
+    ** Restart[] #RESTART
     -> END
 
 * Keep Your Pace[]
@@ -233,7 +245,10 @@ Some time passes, and you need to check your progress. You can either keep up yo
     
     Time goes on and you continue work. Sadly, the machine proves its worth, and it is great as it makes basic gadgets and watches and as it goes, it begins to have more blueprints uploaded to it. Sadly, time proves it is in control, and Marx fires a great deal of crew deemed "obsolete" by the machine. He smiles at you, though, we he informs you you are not among them. In his eyes, you have great heart and you will never be replaced.
     End Result: You neither Win, Nor Lose
+        
+    ** Restart[] #RESTART
     -> END
+
 = KeepWorking
 You decide that you didn't skip this day to waste it rushing things, and taking apart your invention you decide that there were some design flaws that really should be fixed.
 
@@ -299,6 +314,7 @@ You sigh. All your work has been for not. Now you must beg for your job, since y
 Your choices have caused you to ruin your life's work, and your one chance at fame and fortune. Now, you might not even have a job. With your dream and your drive crushed,  You could not handle the real world as a Tinkerer.
 End Result: You Lose
 
+* Restart[] #RESTART
 -> END
 
 = TestItWin
@@ -312,6 +328,5 @@ You run out of your house to shout about your good luck. You're hard-working att
 A few words and blueprint patents later, your invention sweeps Antiford. You move into a larger house in the Rowe District and live in decent comfort. You need to continue fixing and working in order to survive, but you are way better off then you were and you are enjoying the pleasures of life and your success. Even at your advanced age, you found love with an admirer, banker, who you met at the theater. This event has drastically changed the course of your life.
 End Result: You Win!
 
+* Restart[] #RESTART
 -> END
-
-
