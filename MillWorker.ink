@@ -21,8 +21,8 @@ As you walk past the train station, you wonder what it would be like to ride in 
 
 Should you go to the ticket counter to check the prices? Or Should you just head to the Carriage House and prepare for your day?
 
-* [Carriage House]
-* [Ticket Counter]
+* Carriage House[]
+* Ticket Counter[]
     You rush to the ticket booth and protrude your money. Today is going to be a new day. It's going to be the day that sets all the others apart.
     
     Every day you do the same old things. Today will be different. Today you will dream about this train car ride the entire way down to work. No standing, no thirst, even coach will grant you better conditions then not.
