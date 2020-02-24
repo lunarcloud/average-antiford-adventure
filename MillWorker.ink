@@ -136,7 +136,6 @@ What do you do?
             -> END
     
         *** Overreact[] -> Overreact
-        -
     ** Overreact[] -> Overreact
 
 = DeclineWorking
